@@ -67,7 +67,7 @@ check_token() {
   if [ "$USER_TOKEN" = "kuyganteng" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
-    echo -e "${GREEN}Buy dulu Weh Ke Vallzoffc No 6285641225753${NC}"
+    echo -e "${GREEN}Buy dulu Weh Ke Kuys, Tele t.me/kuykuyss${NC}"
     exit 1
   fi
   clear
