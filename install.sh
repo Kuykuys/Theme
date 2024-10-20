@@ -58,13 +58,13 @@ install_jq() {
 check_token() {
   echo -e "                                                       "
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
-  echo -e "${BLUE}[+]               LICENSY VALLZ OFFC             [+]${NC}"
+  echo -e "${BLUE}[+]               LICENSY KUYS STORE              [+]${NC}"
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "                                                       "
   echo -e "${YELLOW}MASUKAN AKSES TOKEN :${NC}"
   read -r USER_TOKEN
 
-  if [ "$USER_TOKEN" = "VallzOffc" ]; then
+  if [ "$USER_TOKEN" = "kuyganteng" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
     echo -e "${GREEN}Buy dulu Weh Ke Vallzoffc No 6285641225753${NC}"
